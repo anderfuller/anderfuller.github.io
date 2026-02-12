@@ -5,4 +5,5 @@ nav_order: 1
 ---
 New Homepage
 
-[Test link]({% link test-jekyll-repo/test.md %})
+[Test link in submodule]({% link test-jekyll-repo/test.md %})
+[Test link in main repo]({% link test-main/main.md %})
