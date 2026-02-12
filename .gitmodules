@@ -1,3 +1,3 @@
-[submodule "auto-er"]
-	path = auto-er
-	url = https://github.com/anderfuller/auto-er
+[submodule "test-jekyll-repo"]
+	path = test-jekyll-repo
+	url = https://github.com/anderfuller/test-jekyll-repo
